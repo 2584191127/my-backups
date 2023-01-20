@@ -9,7 +9,7 @@ self use,collect from internet
 ## 网易云音乐_6.0.0:星茶会[愿]
 ## 贴吧Lite:https://t.me/tblite
 ## 知乎_5.17.2:https://t.me/Rikka_Ti/14492
-## WPS Office:https://t.me/youthkinga/5505
+## WPS Office_13.24.0_专业版:https://t.me/youthkinga/5505
 ## Via:https://github.com/tuyafeng/Via
 ## 阿里云盘_3.8.1:https://t.me/RikkaTi/1357
 ## 菜鸟_1.0.0:https://t.me/youthkinga/6063
