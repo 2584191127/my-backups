@@ -6,9 +6,9 @@ self use,collect from internet
 ## PixEz:https://github.com/Notsfsssf/pixez-flutter
 ## GeometricWeather(几何天气):https://github.com/WangDaYeeeeee/GeometricWeather
 ## 洛雪音乐:https://github.com/lyswhut/lx-music-mobile
-## 网易云音乐:星茶会[愿]
+## 网易云音乐_6.0.0:星茶会[愿]
 ## 贴吧Lite:https://t.me/tblite
-## 知乎:https://t.me/Rikka_Ti/14492
+## 知乎_5.17.2:https://t.me/Rikka_Ti/14492
 ## WPS Office:https://t.me/youthkinga/5505
 ## Via:https://github.com/tuyafeng/Via
 ## 阿里云盘_3.8.1:https://t.me/RikkaTi/1357
