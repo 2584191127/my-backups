@@ -12,4 +12,4 @@ self use,collect from internet
 ## WPS Office:https://t.me/youthkinga/5505
 ## Via:https://github.com/tuyafeng/Via
 ## 阿里云盘:https://t.me/RikkaTi/1357
-## 菜鸟:https://t.me/youthkinga/6063
+## 菜鸟_1.0.0:https://t.me/youthkinga/6063
