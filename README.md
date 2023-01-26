@@ -5,7 +5,7 @@ self use,collect from internet
 ## PixEz:https://github.com/Notsfsssf/pixez-flutter
 ## GeometricWeather(几何天气):https://github.com/WangDaYeeeeee/GeometricWeather
 ## 洛雪音乐:https://github.com/lyswhut/lx-music-mobile
-## 网易云音乐_6.0.0:星茶会[愿]
+## 网易云音乐_6.0.0:[星茶会[愿]](https://t.me/xingchahuistar)
 ## 贴吧Lite:https://t.me/tblite
 ## 知乎_5.17.2:https://t.me/Rikka_Ti/14492
 ## WPS Office_13.24.0_专业版:https://t.me/youthkinga/5505
