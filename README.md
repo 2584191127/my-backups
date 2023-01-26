@@ -1,7 +1,7 @@
 # android app in my phone
 self use,collect from internet
 ## Telegram_9.3.3:https://t.me/RikkaTi/1824
-## QQ_8.8.98:https://t.me/youthkinga/5864
+## QQ_8.8.88.7830
 ## PixEz:https://github.com/Notsfsssf/pixez-flutter
 ## GeometricWeather(几何天气):https://github.com/WangDaYeeeeee/GeometricWeather
 ## 洛雪音乐:https://github.com/lyswhut/lx-music-mobile
