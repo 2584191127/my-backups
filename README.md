@@ -1,5 +1,6 @@
 # android app in my phone
-self use,collect from internet
+self use,collect from internet  
+## [Releases](https://github.com/2584191127/my-android-app-backup/releases)
 ## Telegram_9.3.3:https://t.me/RikkaTi/1824
 ## QQ_8.8.88.7830
 ## PixEz:https://github.com/Notsfsssf/pixez-flutter
