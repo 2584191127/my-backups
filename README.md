@@ -8,7 +8,6 @@ self use,collect from internet
 ## 洛雪音乐:https://github.com/lyswhut/lx-music-mobile
 ## 网易云音乐_6.0.0:[星茶会[愿]](https://t.me/xingchahuistar)
 ## 贴吧Lite:https://t.me/tblite
-## 氢知乎(Hydrogen):https://myhydrogen.gitee.io/
 ## WPS Office_13.24.0_专业版:https://t.me/youthkinga/5505
 ## Via:https://github.com/tuyafeng/Via
 ## 阿里云盘_3.8.1:https://t.me/RikkaTi/1357
