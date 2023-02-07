@@ -15,3 +15,4 @@ self use,collect from internet
 ## 菜鸟_1.0.0:https://t.me/youthkinga/6063
 ## Bitwarden:https://github.com/bitwarden/mobile
 ## ZeroTermux:https://github.com/hanxinhao000/ZeroTermux
+## 高德地图(红米K50提取)_11.11.60.3455
