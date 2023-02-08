@@ -10,8 +10,7 @@ self use,collect from internet
 ## 贴吧Lite:https://t.me/tblite
 ## WPS Office_13.24.0_专业版:https://t.me/youthkinga/5505
 ## Via:https://github.com/tuyafeng/Via
-## 阿里云盘_3.8.1:https://t.me/RikkaTi/1357
-## 阿里云盘_4.1.0_Pankill:https://t.me/zhou45s/2906
+## 阿里云盘_2.3.3:https://www.52pojie.cn/thread-1632921-1-1.html
 ## 菜鸟_1.0.0:https://t.me/youthkinga/6063
 ## Bitwarden:https://github.com/bitwarden/mobile
 ## ZeroTermux:https://github.com/hanxinhao000/ZeroTermux
