@@ -16,7 +16,7 @@ self use,collect from internet
 ## ZeroTermux:https://github.com/hanxinhao000/ZeroTermux
 ## 高德地图(红米K50提取)_11.11.60.3455
 # [Windows](https://github.com/2584191127/my-backup/releases/tag/win)
-## QQ
-## 微信
+## QQ_9.7.3(28946)_Dreamcast_去广告版
+## 微信_3.6.5.16_多开防撤回绿色版
 ## mpv
 ## Bandizip
