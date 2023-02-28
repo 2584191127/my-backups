@@ -1,6 +1,6 @@
 self use,collect from internet 
 ## [Releases](https://github.com/2584191127/my-backup/releases)
-# Andriod
+# [Andriod](https://github.com/2584191127/my-backup/releases/tag/and)
 ## Telegram_9.3.3:https://t.me/RikkaTi/1824
 ## QQ_8.8.88.7830
 ## PixEz:https://github.com/Notsfsssf/pixez-flutter
@@ -15,7 +15,7 @@ self use,collect from internet
 ## Bitwarden:https://github.com/bitwarden/mobile
 ## ZeroTermux:https://github.com/hanxinhao000/ZeroTermux
 ## 高德地图(红米K50提取)_11.11.60.3455
-# Windows
+# [Windows](https://github.com/2584191127/my-backup/releases/tag/win)
 ## QQ
 ## 微信
 ## mpv
