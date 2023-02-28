@@ -19,5 +19,6 @@ self use,collect from internet
 ## QQ_9.7.3(28946)_Dreamcast_去广告版:https://www.423down.com/8229.html
 ## 微信_3.6.5.16_多开防撤回绿色版:https://www.423down.com/8718.html
 ## mpv:https://github.com/hooke007/MPV_lazy
-## Bandizip
+## Bandizip:https://www.423down.com/9735.html
 ## qBittorent_4.5.1.10_便携增强版:https://www.423down.com/8421.html
+## Clash for Windows_0.20.17汉化版:https://github.com/ender-zhao/Clash-for-Windows_Chinese
