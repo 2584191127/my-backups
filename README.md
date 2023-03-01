@@ -23,3 +23,4 @@ self use,collect from internet
 ## Bandizip:https://www.423down.com/9735.html
 ## qBittorent_便携增强版:https://www.423down.com/8421.html
 ## Clash for Windows_0.20.17_汉化版:https://github.com/ender-zhao/Clash-for-Windows_Chinese
+## 小红书简明版
