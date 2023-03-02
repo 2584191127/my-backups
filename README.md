@@ -16,6 +16,7 @@ self use,collect from internet
 ## Bitwarden:https://github.com/bitwarden/mobile
 ## ZeroTermux:https://github.com/hanxinhao000/ZeroTermux
 ## 高德地图(红米K50提取)_11.11.60.3455
+## 小红书简明版
 # [Windows](https://github.com/2584191127/my-backups/releases/tag/win)
 ## QQ_9.7.3(28946)_Dreamcast_去广告版:https://www.423down.com/8229.html
 ## 微信_3.6.5.16_多开防撤回绿色版:https://www.423down.com/8718.html
@@ -23,4 +24,3 @@ self use,collect from internet
 ## Bandizip:https://www.423down.com/9735.html
 ## qBittorent_便携增强版:https://www.423down.com/8421.html
 ## Clash for Windows_0.20.17_汉化版:https://github.com/ender-zhao/Clash-for-Windows_Chinese
-## 小红书简明版
