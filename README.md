@@ -7,7 +7,7 @@ self use,collect from internet
 ## PixEz:https://github.com/Notsfsssf/pixez-flutter
 ## GeometricWeather(几何天气):https://github.com/WangDaYeeeeee/GeometricWeather
 ## 洛雪音乐:https://github.com/lyswhut/lx-music-mobile
-## 网易云音乐_6.0.0:[星茶会[愿]](https://t.me/xingchahuistar)
+## 网易云音乐
 ## 贴吧Lite:https://t.me/tblite
 ## WPS Office_13.24.0_专业版:https://t.me/youthkinga/5505
 ## Via:https://github.com/tuyafeng/Via
@@ -17,6 +17,12 @@ self use,collect from internet
 ## ZeroTermux:https://github.com/hanxinhao000/ZeroTermux
 ## 高德地图(红米K50提取)_11.11.60.3455
 ## 小红书简明版
+## 哔哩哔哩
+## Clash for Android:https://github.com/Kr328/ClashForAndroid
+## 夸克_H2SO3
+## QQ邮箱_H2SO3
+## 倒带:https://github.com/KusStar/rewind-apks
+## 知乎
 # [Windows](https://github.com/2584191127/my-backups/releases/tag/win)
 ## QQ_9.7.3(28946)_Dreamcast_去广告版:https://www.423down.com/8229.html
 ## 微信_3.6.5.16_多开防撤回绿色版:https://www.423down.com/8718.html
@@ -24,3 +30,6 @@ self use,collect from internet
 ## Bandizip:https://www.423down.com/9735.html
 ## qBittorent_便携增强版:https://www.423down.com/8421.html
 ## Clash for Windows_0.20.17_汉化版:https://github.com/ender-zhao/Clash-for-Windows_Chinese
+## centbrowser:http://static.centbrowser.cn/win_stable/
+## HiBituninstaller:https://www.423down.com/9979.html
+## NDM:http://www.dayanzai.me/neat-download-manager.html
