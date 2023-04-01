@@ -22,6 +22,7 @@ Clash for Android:https://github.com/Kr328/ClashForAndroid<br>
 QQ邮箱_H2SO3<br>
 倒带:https://github.com/KusStar/rewind-apks<br>
 知乎<br>
+安卓清理君_3.6.6<br>
 </details>
 
 <details>
