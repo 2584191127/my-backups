@@ -32,8 +32,9 @@ QQ_9.7.3(28946)_Dreamcast_去广告版:https://www.423down.com/8229.html<br>
 mpv:https://github.com/hooke007/MPV_lazy<br>
 Bandizip:https://www.423down.com/9735.html<br>
 qBittorent_便携增强版:https://www.423down.com/8421.html<br>
-Clash for Windows_0.20.17_汉化版:https://github.com/ender-zhao/Clash-for-Windows_Chinese<br>
+Clash for Windows_0.20.20_汉化版:https://github.com/ender-zhao/Clash-for-Windows_Chinese<br>
 centbrowser:http://static.centbrowser.cn/win_stable/<br>
 HiBituninstaller:https://www.423down.com/9979.html<br>
 NDM:http://www.dayanzai.me/neat-download-manager.html<br>
+搞机工具箱_9.81
 </details>
